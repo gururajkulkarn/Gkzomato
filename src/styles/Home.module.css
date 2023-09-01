@@ -1,0 +1,19 @@
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:15px ;
+    }
+    .hotels{
+        margin: 50px;
+        text-align: center;
+        color: rgb(105, 105, 105);
+        font-family: Okra, Helvetica, sans-serif;
+        font-size: 22px;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    }
+    
